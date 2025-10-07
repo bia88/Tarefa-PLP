@@ -1,0 +1,5 @@
+Olá, este é o primeiro teste.
+Estamos praticando leitura de arquivos.
+Python é muito divertido!
+Aprender a manipular arquivos é importante.
+Este é o quinto exemplo de linha.
